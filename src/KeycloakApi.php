@@ -11,7 +11,7 @@ class KeycloakApi
 
     public static function getRoles()
     {
-        return "the Roles";
+        return "the Roles updated";
     }
 
 }
