@@ -18,5 +18,8 @@
         "psr-4": {
             "taufiqtab\\keycloakapi\\": "src/" 
         } 
-    }
+    },
+    "license": [
+        "OSL-3.0"
+    ]
 }
