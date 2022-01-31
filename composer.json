@@ -1,0 +1,22 @@
+{
+    "name": "taufiqtab/keycloakapi",
+    "description": "Keycloak Admin REST API for Laravel",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "require-dev": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Taufiq Abdullah",
+            "email": "taufiqtab@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "taufiqtab\\keycloakapi\\": "src/" 
+        } 
+    }
+}
